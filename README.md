@@ -11,9 +11,10 @@ In this project, I will set up a "Hello world" repository. No complex coding is 
     
 # 👤 Author1
 
-    GitHub:  [@Khanetmoi](https://github.com/Khanetmoi)
-    Twitter: [@InayatVan](https://twitter.com/InayatVan)
-    LinkedIn: [Khan Bitsindou](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
+   - GitHub: [@Khanetmoi](https://github.com/Khanetmoi)
+   - Twitter: [@InayatVan](https://twitter.com/InayatVan)
+   - LinkedIn: [Khan Bitsindou](https://www.linkedin.com/in/khan-bitsindou-b37178228/)
+    
 
 
 
